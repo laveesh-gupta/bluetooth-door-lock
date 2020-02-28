@@ -4,3 +4,4 @@ An arduino based and bluetooth controlled door lock to help specially abled peop
 ## Requirements  
 1. Arduino Uno  
 2. Arduino IDE  
+3. Bluetooth module  
